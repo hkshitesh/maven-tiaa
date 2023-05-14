@@ -25,4 +25,8 @@ public class MyCalc {
 	{
 		System.out.println("Hello World");
 	}
+	public void ShowMsg()
+	{
+		System.out.println("Hello Msg");
+	}
 }
