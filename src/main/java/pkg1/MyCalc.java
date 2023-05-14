@@ -21,4 +21,30 @@ public class MyCalc {
 	{
 		System.out.println("Hello TIAA");
 	}
+
 }
+
+	
+  
+  
+  
+  void SayBye()
+	{
+		System.out.println("Bye");
+	}
+}
+
+
+
+
+
+
+
+
+	void sayBye2()
+	{
+		System.out.println("Bye UPES");
+	}
+
+}
+
