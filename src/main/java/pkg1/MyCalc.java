@@ -1,4 +1,4 @@
-//Added comment
+//Added comment by HKS
 package pkg1;
 public class MyCalc {	
 	public int sum(int a, int b)
