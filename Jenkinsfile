@@ -34,6 +34,10 @@ pipeline {
        echo 'Pipeline success'
       }
       }
-    
+      stage ('tiaa') {
+      steps {
+       echo 'tiaa msg'
+      }
+      }    
   }
 }
