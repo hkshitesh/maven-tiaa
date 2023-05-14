@@ -16,4 +16,8 @@ public class MyCalc {
 	{
 		return(a/b);
 	}
+	void sayHello()
+	{
+		System.out.println("Hello TIAA");
+	}
 }
