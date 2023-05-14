@@ -17,4 +17,8 @@ public class MyCalc {
 	{
 		return(a/b);
 	}
+	public void Greeting()
+	{
+		System.out.println("Welcome to UPES");
+	}
 }
