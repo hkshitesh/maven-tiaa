@@ -21,4 +21,8 @@ public class MyCalc {
 	{
 		System.out.println("Welcome to UPES");
 	}
+	public void sayHello()
+	{
+		System.out.println("Hello World");
+	}
 }
