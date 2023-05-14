@@ -19,6 +19,14 @@ public class MyCalc {
 	void sayHello()
 	{
 		System.out.println("Hello TIAA");
+	}	
+}
+=======
+	void sayBye()
+	{
+		System.out.println("Bye UPES");
 	}
-	//Hi Hit, Bikash here
+
+//Hi Hit, Bikash here
+
 }
