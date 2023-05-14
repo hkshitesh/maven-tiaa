@@ -15,6 +15,6 @@ public class MyCalcMain {
 		System.out.println("mul= "+ob.mul(20,10));
 		System.out.println("div= "+ob.div(20,10));		
 		MyCalcMain ob2 = new MyCalcMain();
-		System.out.println("Sum2= "+ob2.sum2(20,10));		
+		//System.out.println("Sum2= "+ob2.sum2(20,10));		
 	}
 }
