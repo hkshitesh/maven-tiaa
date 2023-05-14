@@ -29,4 +29,9 @@ public class MyCalc {
 	{
 		System.out.println("Hello Msg");
 	}
+	public void checkBuild()
+	{
+		System.out.println("Added checkBuild Function");
+	}
+	
 }
