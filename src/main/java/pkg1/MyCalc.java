@@ -20,4 +20,9 @@ public class MyCalc {
 	{
 		System.out.println("Hello TIAA");
 	}
+	void sayBye()
+	{
+		System.out.println("Bye UPES");
+	}
+
 }
